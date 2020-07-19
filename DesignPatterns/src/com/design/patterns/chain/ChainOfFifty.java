@@ -1,4 +1,4 @@
-package com.design.paatern.chain;
+package com.design.patterns.chain;
 
 public class ChainOfFifty implements Chain {
 

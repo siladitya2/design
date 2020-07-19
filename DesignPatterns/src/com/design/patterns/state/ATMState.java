@@ -1,4 +1,4 @@
-package com.design.pattern.state;
+package com.design.patterns.state;
 
 public interface ATMState {
 	
